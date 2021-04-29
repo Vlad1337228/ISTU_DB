@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DB\DB\bin\Debug\DB.exe.config
+C:\Users\user\source\repos\DB\DB\bin\Debug\DB.exe
+C:\Users\user\source\repos\DB\DB\bin\Debug\DB.pdb
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.exe
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.pdb
+C:\Users\user\source\repos\DB\DB\obj\Debug\DB.Form2.resources
